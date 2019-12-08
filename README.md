@@ -1,4 +1,4 @@
-[# Reflex-KeyMouseLock](https://steamcommunity.com/sharedfiles/filedetails/?id=890151587)
+# [Reflex-KeyMouseLock](https://steamcommunity.com/sharedfiles/filedetails/?id=890151587)
 
 Toggles a mouse lock on a key/mouse press or hold. Why would you use this? I don't know, but someone requested me to write this.
 Please note that this will not work with any other sensitivity / fov changers and has been made standalone for the sake of minimality. Also due to bugs with setting sensitivity to 0, this addon will set your sensitivity to 0.01 to lock it, so it may not work if you have an extremely high mouse DPI or mouse acceleration.
